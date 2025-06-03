@@ -1,3 +1,8 @@
 Archivo de la actividad 2 - Vulmaro Alberto Martínez Verdugo 
 Párrafo 2 desde a2-main
 Párrafo 3 desde a2-main
+
+Párrafo #1 desde a2-user2
+Párrafo #2 desde a2-user2
+Párrafo #3 desde a2-user2
+Párrafo #1 desde a2-user3
